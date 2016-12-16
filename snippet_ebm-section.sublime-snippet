@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<section class="section">
+  <header class="section-header"></header>
+  <div class="section-content"></div>
+  <footer class="section-footer"></footer>
+</section>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ebm-section</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

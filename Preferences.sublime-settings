@@ -1,0 +1,60 @@
+{
+	"alignment_chars":
+	[
+		":",
+		" :",
+		": ",
+		" : ",
+		"?",
+		"=",
+		" =",
+		"= ",
+		"=>"
+	],
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_style": "blink",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"file_exclude_patterns":
+	[
+		".gitkeep"
+	],
+	"folder_exclude_patterns":
+	[
+		"wp-admin",
+		"wp-includes",
+		"app/src",
+		".gitkeep",
+		".grunt",
+		".meteor",
+		".git",
+		".sass-cache",
+		".tmp",
+		"npm-debug.log",
+		".svn",
+		".hg",
+		"CVS"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 16,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"margin": 2,
+	"material_theme_accent_indigo": true,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_light_scrollbars": false,
+	"material_theme_tabs_autowidth": true,
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 4,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}

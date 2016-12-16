@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<script>
+  <?php \$this->headScript()->captureStart(); ?>
+		(function(global){
+			jQuery(function(\$) {
+				$1
+			});
+		}).call(window);
+	<?php \$this->headScript()->captureEnd(); ?>
+</script>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>phpdocready</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.phtml</scope> -->
+</snippet>

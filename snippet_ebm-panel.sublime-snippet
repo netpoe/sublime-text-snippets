@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="ebm-panel">
+	<div class="top">
+		<div class="panel-title">$1</div>
+		<div class="actions"></div>
+	</div>
+	<div class="middle">$2</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ebm-panel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
